@@ -6,9 +6,5 @@
 
 - [Box Plot: Display of Distribution](http://www.physics.csbsju.edu/stats/box2.html)
 
-- [Мануалы](https://drive.google.com/drive/folders/1HLx1wMruy5d-0f7eEiVH4_e2BRTqcWxr?usp=sharing)
-
-
-
 
 
